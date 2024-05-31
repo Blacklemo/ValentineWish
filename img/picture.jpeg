@@ -1,1 +1,9 @@
 
+
+# Add the picture to your repository
+cp C:\Users\Dell\Downloads\picture.jpeg /ValentineWish/img/picture.jpeg
+git add picture.jpg
+
+# Commit and push the changes
+git commit -m "Add picture.jpeg"
+git push origin main
